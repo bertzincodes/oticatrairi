@@ -1,0 +1,7 @@
+Site Ótica Trairi
+- index.html: estrutura e textos (endereço e horário em 'Venha nos visitar').
+- style.css: cores e layout (variáveis no topo, em :root).
+- script.js: lista de serviços (PRODUCTS) e diferenciais (DIFFS).
+- assets/: logos e arte do exame. Troque os arquivos mantendo os nomes.
+Publicação: envie todos os arquivos para a hospedagem (Netlify, Vercel, GitHub Pages ou cPanel).
+WhatsApp: número 5585999731749 nos links wa.me do index.html e do script.js.
